@@ -42,7 +42,7 @@
 ![Dashboard](https://github.com/esguerraervin/Final-task-3/blob/646ea2f3ec928d72e85556eaf10ceb9bba8eaf95/Final%20task%203%20screenshot.png)
 
 ### 💻 Final Output File
-[(https://github.com/esguerraervin/Final-task-3/blob/646ea2f3ec928d72e85556eaf10ceb9bba8eaf95/03-Starter-Sales%20Analysis%20(Esguerra).pbix)]
+(https://github.com/esguerraervin/Final-task-3/blob/646ea2f3ec928d72e85556eaf10ceb9bba8eaf95/03-Starter-Sales%20Analysis%20(Esguerra).pbix)
 
 ---
 
