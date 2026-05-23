@@ -39,10 +39,10 @@
 
 ### 🖼️ Dashboard Preview
 
-https://github.com/esguerraervin/Final-task-3/blob/e843545003864ebc6b341c3ecba389c6858c125b/Final%20task%203%20screenshot.png
+![Dashboard](https://github.com/esguerraervin/Final-task-3/blob/646ea2f3ec928d72e85556eaf10ceb9bba8eaf95/Final%20task%203%20screenshot.png)
 
 ### 💻 Final Output File
-[(https://github.com/esguerraervin/Final-task-3/blob/a9ea4d48db6341747f7828cf5f73a533e05ccaa5/03-Starter-Sales%20Analysis%20(Esguerra).pbix)]
+[(https://github.com/esguerraervin/Final-task-3/blob/646ea2f3ec928d72e85556eaf10ceb9bba8eaf95/03-Starter-Sales%20Analysis%20(Esguerra).pbix)]
 
 ---
 
