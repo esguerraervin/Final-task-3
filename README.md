@@ -39,18 +39,10 @@
 
 ### 🖼️ Dashboard Preview
 
-<p align="center">
-  <img src="[assets/img/FINALS%20TASK%203%20DASHBOARD.PNG](https://github.com/esguerraervin/Final-task-3/blob/a9ea4d48db6341747f7828cf5f73a533e05ccaa5/Final%20task%203%20screenshot.png)" width="900">
-</p>
+https://github.com/esguerraervin/Final-task-3/blob/e843545003864ebc6b341c3ecba389c6858c125b/Final%20task%203%20screenshot.png
 
 ### 💻 Final Output File
-(https://github.com/esguerraervin/Final-task-3/blob/a9ea4d48db6341747f7828cf5f73a533e05ccaa5/03-Starter-Sales%20Analysis%20(Esguerra).pbix)
+[(https://github.com/esguerraervin/Final-task-3/blob/a9ea4d48db6341747f7828cf5f73a533e05ccaa5/03-Starter-Sales%20Analysis%20(Esguerra).pbix)]
 
 ---
 
-### ⭐ Dashboard Preview
-
-[<p align="center">
-  <img src="assets/img/FINALS%20TASK%203%20DASHBOARD.PNG" alt="Dashboard Preview" width="100%">
-</p>
-](https://github.com/esguerraervin/Final-task-3/blob/e843545003864ebc6b341c3ecba389c6858c125b/Final%20task%203%20screenshot.png)
