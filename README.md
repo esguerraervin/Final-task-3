@@ -44,5 +44,6 @@
 ### 💻 Final Output File
 📁 [Download PBIX File][(assets/Final-task-3-file.pbix)](https://github.com/esguerraervin/Final-task-3/blob/646ea2f3ec928d72e85556eaf10ceb9bba8eaf95/03-Starter-Sales%20Analysis%20(Esguerra).pbix)
 
----
-
+<p align="center">
+  ⭐ Interactive Power BI Report • Data Analysis • Data Analysis Expression
+</p>
